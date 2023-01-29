@@ -1,0 +1,24 @@
+            const Text(
+              'Colombo',
+              style: TextStyle(
+                color: Colors.yellow,
+                fontWeight: FontWeight.w700,
+                fontSize: 38,
+              ),
+            ),
+            const Text(
+              'Store',
+              style: TextStyle(
+                color: Colors.black,
+                fontWeight: FontWeight.w700,
+                fontSize: 18,
+              ),
+            ),
+
+
+
+                  // floatingActionButton: FloatingActionButton(
+      //   onPressed: () {},
+      //   tooltip: 'Cart',
+      //   child: const Icon(Icons.shopping_cart),
+      // ), // This trailing comma makes auto-formatting nicer for build methods.
